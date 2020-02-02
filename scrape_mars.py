@@ -49,7 +49,7 @@ def mars_news(browser):
     except AttributeError:
         return None, None
     
-    return news_title, news_p
+    return news_title, news_paragraph
 
 ### Featured Images
 def featured_image(browser):
