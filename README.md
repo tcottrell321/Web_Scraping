@@ -3,5 +3,5 @@ This repository hold several files to scrape key information and images from sev
 
 # Solution Architecture
 
-![](web_scraping_architecture)
+![Web Scrapping Architecture](web_scraping_architecture.pdf)
 
