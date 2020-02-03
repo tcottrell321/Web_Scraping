@@ -5,3 +5,7 @@ This repository hold several files to scrape key information and images from sev
 
 ![Web Scrapping Architecture](web_scraping_architecture.pdf)
 
+# Sudo Code - Scraping Process and Data Flow
+
+A detailed explanation of the web-scrapping and architecture steps in contained in the pdf document Web Scraping Architecture. This document is stored in this repository. 
+
