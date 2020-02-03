@@ -3,7 +3,7 @@ This repository hold several files to scrape key information and images from sev
 
 # Solution Architecture
 
-![Web Scrapping Architecture](web_scraping_architecture.pdf)
+![Web Scraping Architecture](web_scraping_architecture.pdf)
 
 # Sudo Code - Scraping Process and Data Flow
 
